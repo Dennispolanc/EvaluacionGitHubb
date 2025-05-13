@@ -5,7 +5,17 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Proyecto de Ventas");
-            "Primer commint del Proyecto";
         }
+            
+         internal void MostrarDatos()
+         {
+            Console.WriteLine("El Carnet es : 24509740" + "El nombre es : Denis Francisco Polanco Martinez");
+            
+           
+        
+        
+         }
+
+        
     }
 }
