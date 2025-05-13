@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Proyecto de Ventas");
-            "Primer commint del Proyecto"
+            "Primer commint del Proyecto";
         }
     }
 }
