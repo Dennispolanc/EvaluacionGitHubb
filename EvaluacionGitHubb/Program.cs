@@ -5,9 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Proyecto de Ventas");
+            MostrarDatos();
         }
             
-         internal void MostrarDatos()
+         static void MostrarDatos()
          {
             Console.WriteLine("El Carnet es : 24509740"+"El nombre es : Denis Francisco Polanco Martinez");
             
