@@ -10,7 +10,7 @@
             
          static void MostrarDatos()
          {
-            Console.WriteLine("El Carnet es : 24509740"+"El nombre es : Denis Francisco Polanco Martinez");
+            Console.WriteLine("El Carnet es : 24509740" + " El nombre es : Denis Francisco Polanco Martinez");
             
            
         
